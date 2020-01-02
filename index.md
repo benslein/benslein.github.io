@@ -146,9 +146,7 @@
           <h1>Meet the Team</h1>
           <p class="lead">Our experience has
             taught us that
-            infrastructure successes are best achieved through a deliberate systems approach followed throughout the
-            lifetime of a
-            program.</p>
+            infrastructure successes are best achieved through a deliberate systems approach.</p>
         </div>
       </div>
 
