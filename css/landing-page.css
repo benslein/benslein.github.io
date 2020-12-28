@@ -52,18 +52,12 @@ header.masthead h1 {
 }
 
 .showcase .showcase-text {
-  padding: 3rem;
+  padding: 2rem;
 }
 
 .showcase .showcase-img {
-  min-height: 30rem;
+  min-height: 22rem;
   background-size: cover;
-}
-
-@media (min-width: 768px) {
-  .showcase .showcase-text {
-    padding: 7rem;
-  }
 }
 
 .features-icons {
@@ -146,4 +140,8 @@ a {
 .call-to-action {
   padding-top: 12rem;
   padding-bottom: 12rem;
+}
+
+.lead {
+  font-size: 1.2rem;
 }
