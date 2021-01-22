@@ -50,7 +50,10 @@ header.masthead h1 {
     font-size: 3rem;
   }
 }
-
+.showcase{
+  padding-top: 60px; 
+  padding-bottom: 60px;
+}
 .showcase .showcase-text {
   padding: 2rem;
 }
@@ -94,7 +97,9 @@ header.masthead h1 {
   max-width: 12rem;
   box-shadow: 0px 5px 5px 0px #adb5bd;
 }
-
+.bg-light{
+  background-color: #eaeaea;
+}
 .call-to-action {
   position: relative;
   background-color: #343a40;
