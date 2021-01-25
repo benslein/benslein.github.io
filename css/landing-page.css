@@ -59,7 +59,7 @@ header.masthead h1 {
 }
 
 .showcase .showcase-img {
-  min-height: 22rem;
+  min-height: 28rem;
   background-size: cover;
 }
 
@@ -85,8 +85,8 @@ header.masthead h1 {
 }
 
 .testimonials {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  padding-top: 9rem;
+  padding-bottom: 9rem;
 }
 
 .testimonials .testimonial-item {
@@ -152,7 +152,11 @@ a {
   font-size: 1.2rem;
 }
 .aboutus {
-  text-align: justify;
+  text-align: center;
   padding-right: 15px;
   padding-left: 15px;
+}
+
+.h5light {
+  font-weight: 400;
 }
